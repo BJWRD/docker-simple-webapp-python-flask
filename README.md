@@ -10,18 +10,18 @@ This is a simple web application using [Docker](https://www.docker.com/) and [Py
    
 ## 1. Clone the Repository
 
-     cd /home/user
-     git clone https://github.com/BJWRD/docker-simple-webapp-python-flask.git
+     sudo cd /home/user
+     sudo git clone https://github.com/BJWRD/docker-simple-webapp-python-flask.git
 
    
 ## 2. Execute install.sh script
 
-    cd docker-simple-webapp-python-flask
-    ./install.sh
+    sudo cd docker-simple-webapp-python-flask
+    sudo ./install.sh
 
 ## 3. Start Web Server
 
-    docker-compose up -d
+    sudo docker-compose up -d
     
 ## 4. Test
 
