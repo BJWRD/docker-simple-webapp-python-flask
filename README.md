@@ -17,8 +17,8 @@ This is a simple web application using [Docker](https://www.docker.com/) and [Py
    
 ## 2. Execute install.sh script
 
-    sudo chmod 750 install.sh
     sudo cd docker-simple-webapp-python-flask
+    sudo chmod 750 install.sh
     sudo ./install.sh
 
 ## 3. Start Web Server
