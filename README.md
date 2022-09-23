@@ -10,12 +10,14 @@ This is a simple web application using [Docker](https://www.docker.com/) and [Py
    
 ## 1. Clone the Repository
 
+     sudo yum install git -y
      sudo cd /home/user
      sudo git clone https://github.com/BJWRD/docker-simple-webapp-python-flask.git
 
    
 ## 2. Execute install.sh script
 
+    sudo chmod 750 install.sh
     sudo cd docker-simple-webapp-python-flask
     sudo ./install.sh
 
